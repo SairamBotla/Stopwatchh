@@ -1,0 +1,29 @@
+    body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      font-family: sans-serif;
+      background: rgb(214, 180, 213);
+    }
+
+    #stopwatch {
+      font-size: 5em;
+    }
+
+    #controls {
+        
+      margin-top: 150px;
+      margin-left: -310px;
+      
+    }
+    button{
+        height: 50px;
+        width: 100px;
+        color: white;
+        background: black;
+        border: 7px solid blue;
+        border-radius: 20px;
+        font-size: 1.3rem;
+    }
